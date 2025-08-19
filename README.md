@@ -16,7 +16,7 @@ A terminal-based implementation of the popular Wordle game using Python. This pr
 
 ## Presentation
 
-I shared a presentation of this project on LinkedIn. You can view it here: [LinkedIn Post] (https://www.linkedin.com/posts/amal-alissa-098530221_wordle-game-activity-7353380561853267968-P-ZX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfI_3QBQ5Z1ECyk75BPkDg5npI7zaABdAw).
+I shared a presentation of this project on LinkedIn. You can view it here: [LinkedIn Post](https://www.linkedin.com/posts/amal-alissa-098530221_wordle-game-activity-7353380561853267968-P-ZX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfI_3QBQ5Z1ECyk75BPkDg5npI7zaABdAw).
 
 ## Installation
 
