@@ -14,6 +14,10 @@ A terminal-based implementation of the popular Wordle game using Python. This pr
 - **Random Word Selection**: A random five-letter word is chosen for each game session.
 - **Simple and Lightweight**: No external libraries required; runs on any system with Python installed.
 
+## Presentation
+
+I shared a presentation of this project on LinkedIn. You can view it here: [LinkedIn Post] (https://www.linkedin.com/posts/amal-alissa-098530221_wordle-game-activity-7353380561853267968-P-ZX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfI_3QBQ5Z1ECyk75BPkDg5npI7zaABdAw).
+
 ## Installation
 
 1. **Clone the repository**:
