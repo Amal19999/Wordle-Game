@@ -2,7 +2,7 @@
 
 ## Description
 
-A terminal-based implementation of the popular Wordle game using Python. This project allows players to guess a five-letter word within six attempts, receiving feedback after each guess to indicate correct letters and positions.
+A terminal-based implementation of the popular Wordle game using Python. This game allows players to guess a five-letter word within six attempts, receiving feedback after each guess to indicate correct letters and positions.
 
 ## Features
 
